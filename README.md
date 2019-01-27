@@ -1,0 +1,1 @@
+*Landing page for small dog walking business,  built with Bootstrap 4 and Animate On Scroll Library for effects.*
